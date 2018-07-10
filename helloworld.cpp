@@ -1,5 +1,7 @@
 #include<iostrema>
 
+void my_func1();
+
 int main()
 {
    std::cout << "hello world" << std::endl;
